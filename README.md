@@ -29,37 +29,40 @@ I am an elite **Staff Software Engineer and AI Architect** specializing in build
 ### 🛠️ Elite Tech Stack
 
 **Frontend Architecture:**  
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Backend & Microservices:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-**Data & Vector DBs:**  
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+**CMS & Ecommerce Platforms:**  
+![WordPress](https://img.shields.io/badge/WordPress-%23117B85.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-%2396588a.svg?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)
+![Magento](https://img.shields.io/badge/magento-%23EE672F.svg?style=for-the-badge&logo=magento&logoColor=white)
+![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+![Wix](https://img.shields.io/badge/wix-%23000000.svg?style=for-the-badge&logo=wix&logoColor=white)
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
-**AI / ML Engineering:**  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-FFD21E?style=for-the-badge&color=FFD21E)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
-
-**Cloud & MLOps:**  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+**Payments, Builders & Integrations:**  
+![Stripe](https://img.shields.io/badge/Stripe-%23008CDD.svg?style=for-the-badge&logo=Stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-%2300457C.svg?style=for-the-badge&logo=PayPal&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-%23D50035.svg?style=for-the-badge&logo=elementor&logoColor=white)
 
 ---
 
@@ -71,10 +74,31 @@ I am an elite **Staff Software Engineer and AI Architect** specializing in build
 
 ---
 
-### ⚡ Highlights & Current Work
+### 🏆 Featured Work (Selected)
 
-* **Prommer — Multi-Step Agentic Pipeline:** Developing a three-state intelligence pipeline designed to scrape, transform, and validate complex objectives into production-ready reports seamlessly.
-* **Architecture-First Approach:** Ensuring every component from the Vector DB down to the UI React hooks is designed for minimal latency and maximum scalability.
+* **Full Stack Web Applications:** API-driven applications using React/Angular with Node.js & Python backends.
+* **Custom CMS Platforms:** Structured CMS systems with SEO & performance optimization using Elementor, WPBakery, Divi, and ACF.
+* **High-Converting Ecommerce Stores:** Shopify & WooCommerce builds focused on speed, UX, and conversion optimization.
+
+---
+
+### 🌟 What I Offer
+
+* 🛠️ **End-to-end web application development**
+* 🛒 **Custom CMS & ecommerce solutions**
+* 🏗️ **Scalable, secure, and maintainable architectures**
+* ⚡ **Performance tuning, SEO optimization, and responsive UI/UX**
+* 🤝 **Ongoing support, updates, and collaboration**
+
+---
+
+### 🤝 Let’s Work Together
+
+If you’re planning a new project, a major rebuild, or a scalable product, I’m just one message away.
+
+* 🌍 Open to working with clients worldwide
+* 💬 Clear communication & collaboration
+* 🚀 Ready to support short-term projects and long-term partnerships
 
 <br />
 
